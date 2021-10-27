@@ -1,0 +1,12 @@
+.navbar{
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+}
+.rang{
+    display: flex;
+}
+.uz{
+    display: flex;
+    justify-content: space-between;
+}
